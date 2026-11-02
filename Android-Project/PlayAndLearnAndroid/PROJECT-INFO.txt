@@ -1,0 +1,4 @@
+Play and Learn English - Android WebView + Vosk offline speech recognition
+Min Android API: 23 (Android 6.0); intended device Android 8.1/API 27.
+Main HTML: app/src/main/assets/index.html
+Native bridge: app/src/main/java/com/playandlearn/english/MainActivity.java
